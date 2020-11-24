@@ -1,0 +1,68 @@
+
+html{
+background-color: black;
+padding: 10%;
+}
+
+#tangled_header h1{
+    color:#9AF0F5;
+    font-family:"Dancing Script";
+    font-weight: 400;
+    font-size: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-shadow: 4px 1px 1px whitesmoke, 3px 3px 5px grey;
+}
+
+#braidbar_header h1{
+    color: #9AF0F5;
+    font-family: "Bebas Neue";
+    font-weight: 400;
+    font-size: 35px;
+    text-shadow: 2px 1px 1px whitesmoke;
+    text-align: center;
+    top: 1000px;
+    position: relative;
+    top: -40px;
+    left: 100px;
+}
+
+#comingsoon_header h1{
+    color: #9AF0F5;
+    font-family: "Bebas Neue";
+    font-weight: 400;
+    font-size: 50px;
+    position: relative;
+    text-align: center;
+    top: -60px;
+
+}
+
+
+
+#social_media img{
+    width:150px;
+    height:150px;
+    padding: 20px;
+}
+
+#social_media a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+#email {
+    color:whitesmoke;
+    position: relative;
+    top: -90px;
+    text-align: center;
+    font-family: "Bebas Neue";
+    font-size: 22px;
+}
+
+#email a:link{
+    color: whitesmoke;
+}
